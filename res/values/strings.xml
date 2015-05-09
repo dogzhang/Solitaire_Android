@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">纸牌</string>
+    <string name="dummy_button">点击开始</string>
+    <string name="dummy_content">微软\n纸牌</string>
+    <string name="score">得分：</string>
+    <string name="timer">计时：</string>
+    <string name="rePlay">重来</string>
+    <string name="newGame">新游戏</string>
+
+</resources>
